@@ -3,6 +3,7 @@
 ![](https://raw.githubusercontent.com/Alsa2/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Alsa2/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+Bye the way, 10 millions line are just venv, and the commits that have every day are for the above fancy graph
 <!--
 **Alsa2/Alsa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
